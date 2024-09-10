@@ -28,6 +28,7 @@ Information Systems Professional that can wear many hats. I am interested in ide
 <img align="left" title="Yaml" alt="Yaml" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />
 </div>
 
+## 
 - 🔭 I’m currently working on ...
   - Google Apps Script
 - 🌱 I’m currently learning ...
