@@ -10,6 +10,7 @@ Information Systems Professional that can wear many hats. I am interested in ide
 
 ## 🛠️ Languages and Tools
 
+<div display="flex">
 <img align="left" title="Git" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" title=".Net" alt=".Net" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 <img align="left" title="c#" alt="c#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -25,7 +26,7 @@ Information Systems Professional that can wear many hats. I am interested in ide
 <img align="left" title="gitlab" alt="gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" title="VSCode" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" title="Yaml" alt="Yaml" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />
-<br />
+</div>
 
 - 🔭 I’m currently working on ...
   - Google Apps Script
