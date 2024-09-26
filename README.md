@@ -36,3 +36,5 @@ Information Systems Professional that can wear many hats. I am interested in ide
   - Wix  
 - 👯 I’m looking to collaborate on ...
   - Anything valuable
+ 
+  ![https://github-readme-stats.vercel.app/api?username=austinav&show_icons=true&count_private=true&theme=github_dark&border_color=30363d](https://github-readme-stats.vercel.app/api?username=austinav&show_icons=true&count_private=true&theme=github_dark&border_color=30363d)
