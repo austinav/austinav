@@ -38,9 +38,9 @@ Information Systems Professional that can wear many hats. I am interested in ide
 ## 
 - 🔭 I’m currently working on ...
   - Google Apps Script
+  - Flutter
+  - Rust
 - 🌱 I’m currently learning ...
-  - GAS TypeScript & clasp
-  - Wix  
 - 👯 I’m looking to collaborate on ...
   - Anything valuable
 
